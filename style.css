@@ -1,0 +1,55 @@
+body{
+    background-color:bisque;
+}
+
+
+a{
+    color:black;
+    
+    font-size: x-large;
+    font-weight: 900;
+}
+#home{
+    font-size:40px;
+    font-weight: 900;
+}
+#pizza_ol{
+    font-size:larger;
+    font-weight: 700;
+    
+}
+#pizza_img{
+    height: 300px;
+
+}
+#pizza_ul{
+    font-size:larger;
+    font-weight: 700;
+}
+#meat_ol{
+    font-size:larger;
+    font-weight: 700;
+    
+}
+#meat_img{
+    height: 300px;
+    
+
+}
+#meat_ul{
+    font-size:larger;
+    font-weight: 700;
+}
+#cheese_ol{
+    font-size:larger;
+    font-weight: 700;
+    
+}
+#cheese_img{
+    height: 300px;
+
+}
+#cheese_ul{
+    font-size:larger;
+    font-weight: 700;
+}
