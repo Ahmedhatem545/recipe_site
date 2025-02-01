@@ -1,30 +1,103 @@
 body{
-    background-color:bisque;
+    background-color:aliceblue;
+}
+.main{
+    background-color: bisque;
+    margin: 2px;
+}
+a{
+    color: black;
 }
 
 
-a{
-    color:black;
-    
+.link{
+    color: black;
     font-size: x-large;
     font-weight: 900;
+    padding: 5px;
+    border: 2px solid brown;
+  
 }
 #home{
     font-size:40px;
     font-weight: 900;
+    text-align: center;
+    
+    
+    background-color:brown;
+    margin: auto;
+    color: bisque;
+    padding: 10px;
 }
-#pizza_ol{
-    font-size:larger;
-    font-weight: 700;
+
+.pizza-main{
+    background-color: bisque;
+    margin: 2px;
+}
+
+h1{
+    font-size:40px;
+    font-weight: 900;
+    text-align: center;
+    
+    
+    background-color:brown;
+    margin: auto;
+    color: bisque;
+    padding: 10px;
+}
+h3{
+    font-size:24px;
+    font-weight: 900;
+    text-align: center;
+    
+    
+    background-color:brown;
+    margin: auto;
+    color: bisque;
+    padding: 3px;
     
 }
-#pizza_img{
-    height: 300px;
-
+li{
+    margin: 10px;
+    border-style:hidden;
+    background-color: br;
 }
-#pizza_ul{
+ol{
+    border-style: dotted;
     font-size:larger;
     font-weight: 700;
+    margin-left:8px;
+    margin-right:8px;
+
+
+    
+}
+img{
+    height: 300px;
+    margin-left: 50px;
+    margin-right: 50px;
+
+}
+ul{
+    
+    border-style: dotted;
+    font-size:larger;
+    font-weight: 700;
+    margin-left:8px;
+    margin-right:8px;
+}
+.return{
+    font-size:40px;
+    font-weight: 900;
+    text-align: center;
+    
+    
+    background-color:brown;
+    margin: auto;
+    color: bisque;
+    padding: 10px;
+
 }
 #meat_ol{
     font-size:larger;
